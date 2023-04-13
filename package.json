@@ -1,0 +1,26 @@
+{
+  "name": "uomo-api",
+  "version": "1.0.0",
+  "description": "UOMO REST APPI",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "REST",
+    "RESTful",
+    "API",
+    "Node",
+    "MySQL",
+    "ORM"
+  ],
+  "author": "Mayamikokatambika",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.22"
+  }
+}
